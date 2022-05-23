@@ -24,8 +24,8 @@ This section will eventually provide new research papers and articles to read on
 
 ## Future Updates:
 Some features to develop with further updates include:
-- Making the mapp interactive, allowing the user to click on a species and have information be displayed.
-- Use the GBIF API to show more information about each species on the search page. The GBIF API has fantastic resources to display maps of where the species is most commonly found and so much more.
+- Making the map interactive, allowing the user to click on a species and have information be displayed.
+- Use the GBIF API to show more information about each species on the search page as well as including an image of the specific species. The GBIF API has fantastic resources to display maps of where the species is most commonly found and so much more.
 - Integrate the news section of the GBIF API to show new exciting research papers in the news section of the app.
 
 ## How To Install The App
@@ -44,4 +44,5 @@ This is a list of links to resources that helped in the development of the app.
 
 ##  Contact Details
 Patrick Whyte
+
 email: patchwhyte@gmail.com
